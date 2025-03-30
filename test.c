@@ -4,5 +4,8 @@ int main(){
 	int a=0;
 	scanf_s("%d",&a);
 	printf("a=%d",a);
+
+
+	printf("hahha");
 	return 0;
 }
